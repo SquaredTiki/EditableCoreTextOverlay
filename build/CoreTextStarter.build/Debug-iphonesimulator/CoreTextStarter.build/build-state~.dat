@@ -1,0 +1,259 @@
+TCoreTextStarter
+v7
+r0
+t311439250.935548
+cCheck dependencies
+cProcessInfoPlistFile /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/Info.plist CoreTextStarter-Info.plist
+cCompileXIB /Users/joshuagarnham/Desktop/CoreTextStarter/MainWindow.xib
+cCompileXIB /Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarterViewController.xib
+cProcessPCH /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch.gch CoreTextStarter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/main.o /Users/joshuagarnham/Desktop/CoreTextStarter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterAppDelegate.o /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterViewController.o /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000004BD1FF600000000000071800
+t1272053600
+s464896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h
+c000000004BD1FF1700000000000007F4
+t1272053527
+s2036
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.h
+c000000004CDFF7970000000000000214
+t1289746327
+s532
+i<UIKit/UIKit.h>
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.m
+c000000004CDFF79700000000000007D7
+t1289746327
+s2007
+i"CoreTextStarterAppDelegate.h"
+i"CoreTextStarterViewController.h"
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.h
+c000000004CDFF797000000000000010B
+t1289746327
+s267
+i<UIKit/UIKit.h>
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m
+c000000004CDFF7EF0000000000000A4C
+t1289746415
+s2636
+i"CoreTextStarterViewController.h"
+i<CoreText/CoreText.h>
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarterViewController.xib
+c000000004CDFF7970000000000003F01
+t1289746327
+s16129
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarter_Prefix.pch
+c000000004CDFF79700000000000000C7
+t1289746327
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/MainWindow.xib
+c000000004CDFF7970000000000004D59
+t1289746327
+s19801
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarter.LinkFileList
+c000000004CDFF80300000000000001DF
+t1289746435
+s479
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterAppDelegate.o
+t1289746450
+s45460
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterViewController.o
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/main.o
+t1289746450
+s6316
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app.dSYM
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/CoreTextStarter
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/CoreTextStarterViewController.nib
+t1289746442
+s764
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/Info.plist
+t1289746435
+s836
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/MainWindow.nib
+t1289746442
+s1139
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/PkgInfo
+t1289746435
+s8
+
+N/Users/joshuagarnham/Desktop/CoreTextStarter/main.m
+c000000004CDFF7970000000000000176
+t1289746327
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch.gch
+t1289746448
+s13825936
+
+NCoreTextStarter-Info.plist
+c000000004CDFF79700000000000004D6
+t1289746327
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311439235#311439235#0(0"0(0#1#0"2434150336#0"0#
+
+CCompileC build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterAppDelegate.o /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311439250.703533
+e311439250.827105
+r1
+xCompileC
+xbuild/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterAppDelegate.o
+x/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.m311439250#311439250#0(0"0(0#0#81"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.m2434150336#2233"    cd /Users/joshuagarnham/Desktop/CoreTextStarter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-generated-files.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-project-headers.hmap -F/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/include -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources/i386 -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources -include /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch -c /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterAppDelegate.m -o /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterAppDelegate.o0#
+
+CCompileC build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterViewController.o /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311439250.827233
+e311439250.935455
+r0
+xCompileC
+xbuild/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterViewController.o
+x/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m: In function '-[CoreTextStarterViewController viewDidLoad]':
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:18: error: 'NSGraphicsContext' undeclared (first use in this function)
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:18: error: (Each undeclared identifier is reported only once
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:18: error: for each function it appears in.)
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38:29: warning: missing terminating " character
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:40:37: warning: missing terminating " character
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:113:1: error: unterminated argument list invoking macro "CFSTR"
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: error: 'CFSTR' undeclared (first use in this function)
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: error: expected ',' or ';' at end of input
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: error: expected declaration or statement at end of input
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: warning: unused variable 'string'
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m: At top level:
+o/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: warning: '@end' missing in implementation context
+lSLF07#2@92"Compile /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439250#311439250#0(1777"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m: In function '-[CoreTextStarterViewController viewDidLoad]':/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:18: error: 'NSGraphicsContext' undeclared (first use in this function)/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:18: error: (Each undeclared identifier is reported only once/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:18: error: for each function it appears in.)/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38:29: warning: missing terminating " character/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:40:37: warning: missing terminating " character/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:113:1: error: unterminated argument list invoking macro "CFSTR"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: error: 'CFSTR' undeclared (first use in this function)/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: error: expected ',' or ';' at end of input/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: error: expected declaration or statement at end of input/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: warning: unused variable 'string'/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m: At top level:/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m:38: warning: '@end' missing in implementation context10(4@59"'NSGraphicsContext' undeclared (first use in this function)311439250#146#156#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#18#0#18#0#43"'*' undeclared (first use in this function)0(22@31"Missing terminating " character311439250#578#133#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#38#0#38#0#0"0(22@31"Missing terminating " character311439250#711#133#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#40#0#40#0#0"0(4@49"Unterminated argument list invoking macro "CFSTR"311439250#844#149#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#113#0#113#0#45"unterminated argument list invoking macro "*"0(4@47"'CFSTR' undeclared (first use in this function)311439250#993#144#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#38#0#38#0#43"'*' undeclared (first use in this function)0(4@35"Expected ',' or ';' at end of input311439250#1137#132#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#38#0#38#0#0"0(4@49"Expected declaration or statement at end of input311439250#1269#146#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#38#0#38#0#49"expected declaration or statement at end of input0(22@24"Unused variable 'string'311439250#1415#123#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#38#0#38#0#19"unused variable '*'0(23@13"At top level:311439250#1538#100#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#0#0#0#0#0"0(22@40"'@end' missing in implementation context311439250#1638#139#0(6@84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m311439215#38#0#38#0#40"'@end' missing in implementation context0(0#0#84"/Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m2434150336#2239"    cd /Users/joshuagarnham/Desktop/CoreTextStarter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-generated-files.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-project-headers.hmap -F/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/include -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources/i386 -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources -include /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch -c /Users/joshuagarnham/Desktop/CoreTextStarter/Classes/CoreTextStarterViewController.m -o /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/CoreTextStarterViewController.o1#
+
+CCompileC build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/main.o /Users/joshuagarnham/Desktop/CoreTextStarter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311439250.115438
+e311439250.703327
+r1
+xCompileC
+xbuild/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/main.o
+x/Users/joshuagarnham/Desktop/CoreTextStarter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/joshuagarnham/Desktop/CoreTextStarter/main.m311439250#311439250#0(0"0(0#0#51"/Users/joshuagarnham/Desktop/CoreTextStarter/main.m2434150336#2181"    cd /Users/joshuagarnham/Desktop/CoreTextStarter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-generated-files.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-project-headers.hmap -F/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/include -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources/i386 -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources -include /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch -c /Users/joshuagarnham/Desktop/CoreTextStarter/main.m -o /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarterViewController.xib
+s311439235.390650
+e311439242.600789
+r1
+xCompileXIB
+x/Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarterViewController.xib
+lSLF07#2@44"CompileXIB CoreTextStarterViewController.xib311439235#311439242#0(0"0(0#0#78"/Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarterViewController.xib2434150336#634"    cd /Users/joshuagarnham/Desktop/CoreTextStarter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/CoreTextStarterViewController.nib /Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarterViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/joshuagarnham/Desktop/CoreTextStarter/MainWindow.xib
+s311439235.332175
+e311439242.599446
+r1
+xCompileXIB
+x/Users/joshuagarnham/Desktop/CoreTextStarter/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311439235#311439242#0(0"0(0#0#59"/Users/joshuagarnham/Desktop/CoreTextStarter/MainWindow.xib2434150336#596"    cd /Users/joshuagarnham/Desktop/CoreTextStarter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/MainWindow.nib /Users/joshuagarnham/Desktop/CoreTextStarter/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app.dSYM /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/CoreTextStarter
+r0
+
+CLd /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/CoreTextStarter normal i386
+r0
+
+CProcessInfoPlistFile /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/Info.plist CoreTextStarter-Info.plist
+s311439235.327633
+e311439235.332068
+r1
+xProcessInfoPlistFile
+x/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/Info.plist
+xCoreTextStarter-Info.plist
+lSLF07#2@34"Process CoreTextStarter-Info.plist311439235#311439235#0(0"0(0#0#71"/Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarter-Info.plist4717520#521"    cd /Users/joshuagarnham/Desktop/CoreTextStarter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreTextStarter-Info.plist -genpkginfo /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app/Info.plist0#
+
+CProcessPCH /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch.gch CoreTextStarter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311439242.600920
+e311439250.115278
+r1
+xProcessPCH
+x/var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch.gch
+xCoreTextStarter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CoreTextStarter_Prefix.pch311439242#311439250#0(0"0(0#0#71"/Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarter_Prefix.pch2434150336#2059"    cd /Users/joshuagarnham/Desktop/CoreTextStarter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-generated-files.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/CoreTextStarter-project-headers.hmap -F/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/include -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources/i386 -I/Users/joshuagarnham/Desktop/CoreTextStarter/build/CoreTextStarter.build/Debug-iphonesimulator/CoreTextStarter.build/DerivedSources -c /Users/joshuagarnham/Desktop/CoreTextStarter/CoreTextStarter_Prefix.pch -o /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreTextStarter_Prefix-bfahiyssaqfelxabdaagbsqisrak/CoreTextStarter_Prefix.pch.gch0#
+
+CTouch /Users/joshuagarnham/Desktop/CoreTextStarter/build/Debug-iphonesimulator/CoreTextStarter.app
+r0
+
