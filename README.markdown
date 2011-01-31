@@ -8,5 +8,9 @@ The only supported font is a custom `Courier` font which has been edited to alig
 
 # Issues
 
-	- Line breaking rule differs between the `UITextView` and Core Text.
-	- A few issues with Attributes and the movement as the user enters text.
+- Line breaking rule differs between the `UITextView` and Core Text.
+- A few issues with Attributes and the movement as the user enters text.
+
+# Credits
+
+Thanks to akosma for his CoreTextWrapper available here on GitHub which I used to actually do the drawing of the text.
